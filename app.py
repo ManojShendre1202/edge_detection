@@ -8,7 +8,7 @@ def edge_detection_app():
     st.set_page_config(page_title="Edge Detection App", page_icon="🤖")
 
     st.header("Edge Detection App")
-    uploaded_file = st.file_uploader("Upload the image", type=["bmp"])
+    uploaded_file = st.file_uploader("Upload the image", type=["bmp","jpg"])
 
     if uploaded_file is not None:
         # Convert the uploaded file to an OpenCV image
