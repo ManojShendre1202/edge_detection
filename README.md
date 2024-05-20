@@ -29,7 +29,7 @@ To install and run the app locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/streamlit-edge-detection.git
+    git clone https://github.com/ManojShendre1202/streamlit-edge-detection.git
     ```
 
 2. Navigate to the project directory:
